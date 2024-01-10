@@ -3,4 +3,4 @@
 
 
 
-- Click here to visit: [Portfolio](https://Techwithdeepanshu.github.io/Portfolio)
+- Click here to visit: [Portfolio](https://techwithdeepanshu.github.io/portfolio/)
